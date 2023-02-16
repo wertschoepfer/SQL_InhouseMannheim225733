@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_Inhouse_Mannheim", "SQL_Inhouse_Mannheim\SQL_Inhouse_Mannheim.ssmssqlproj", "{657FAFBF-D0A2-4D3E-A554-2494110627A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657FAFBF-D0A2-4D3E-A554-2494110627A8}.Default|Default.ActiveCfg = Default
+		{C5B3A474-AB92-42B9-B393-22F39020CE25}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263D4D90-5CE6-4D5B-B316-56085A3D3AEC}
+	EndGlobalSection
+EndGlobal
