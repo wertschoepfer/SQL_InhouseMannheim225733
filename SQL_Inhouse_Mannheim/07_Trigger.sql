@@ -4,7 +4,6 @@ ALTER TRIGGER tr_Demo2 ON [Order Details]
 FOR UPDATE
 AS
 
-
 UPDATE RechnungOrders
 SET LastUpdated = (SELECT getdate())
 WHERE OrderID IN(

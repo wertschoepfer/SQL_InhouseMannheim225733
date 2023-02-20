@@ -43,6 +43,72 @@
           <AssociatedConnUserName />
           <FullPath>04_Aggregates.sql</FullPath>
         </FileNode>
+        <FileNode Name="05_Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Views_Übung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Views_Übung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Windowed_Temp.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_Windowed_Temp.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Locks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_CASE_IF.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_CASE_IF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_Functions_Dynamic.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Functions_Dynamic.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_CTE_recursive_Pivot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_CTE_recursive_Pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_Merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_Partitions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14_Partitions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_RankingFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15_RankingFunctions.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">

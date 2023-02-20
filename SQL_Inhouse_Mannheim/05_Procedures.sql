@@ -1,4 +1,4 @@
---Procedures; 
+--Procedures; werden auf DB abgelegt
 
 CREATE PROCEDURE sp_Demo @Country varchar(20)
 AS
@@ -16,6 +16,7 @@ AS
 SELECT * FROM Customers
 WHERE Country = ISNULL(@Country, Country)
 
+--WITH RECOMPILE forced neuen Abfrageplan
 EXEC Umsatz 2022 WITH RECOMPILE
 
 
