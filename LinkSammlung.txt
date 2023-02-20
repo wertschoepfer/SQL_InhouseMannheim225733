@@ -1,0 +1,5 @@
+https://mystery.knightlab.com/ --> "Spiel" zum üben
+https://www.microsoft.com/de-de/sql-server/sql-server-downloads --> Download von kostenlosem on premise SQL Server (2019) von Microsoft für lokale Installation
+https://www.w3schools.com/sql/ --> Übersicht und Tutorials zu den gängigsten SQL Befehlen
+https://www.youtube.com/watch?v=p26xrW9yVD8 --> Vortrag "Kopfnüsse" mit TSQL geknackt
+
